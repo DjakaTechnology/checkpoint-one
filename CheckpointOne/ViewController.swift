@@ -21,6 +21,7 @@ class ViewController: UICollectionViewController, UICollectionViewDelegateFlowLa
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        collectionView.backgroundColor = .white
         collectionView?.register(UICollectionViewCell.self, forCellWithReuseIdentifier: reusableId)
     }
     
@@ -65,6 +66,8 @@ class ViewController: UICollectionViewController, UICollectionViewDelegateFlowLa
         case 3:
             detail = ImageViewController()
             break
+        case 4:
+            detail = UIStoryboard(name: "UIForm", bundle: nil).instantiateViewController(withIdentifier: "UIFormViewController") as! UIFormViewController
         default:
             detail = MenuListDetail()
             break

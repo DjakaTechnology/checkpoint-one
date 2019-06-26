@@ -13,7 +13,12 @@ class UIFormViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-        // Do any additional setup after loading the view.
     }
 
+    @IBOutlet var logo: UIView!
+    @IBOutlet weak var lbDesc: UILabel!
+    @IBAction func tfSearch(_ sender: Any) {
+    }
+    @IBAction func btnOK(_ sender: Any) {
+    }
 }
