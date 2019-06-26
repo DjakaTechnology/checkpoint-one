@@ -13,7 +13,9 @@ class ViewController: UICollectionViewController, UICollectionViewDelegateFlowLa
     let menu: [String] = [
         "Menu 1",
         "Menu 2",
-        "Menu 3"
+        "Menu 3",
+        "Menu Image View",
+        "Menu UIView"
     ]
 
     override func viewDidLoad() {
@@ -57,7 +59,16 @@ class ViewController: UICollectionViewController, UICollectionViewDelegateFlowLa
     }
     
     override func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-        let detail = MenuListDetail()
+        var detail:UIViewController = MenuListDetail()
+        
+        switch indexPath.row {
+        case 3:
+            detail = ImageViewController()
+            break
+        default:
+            detail = MenuListDetail()
+            break
+        }
         detail.title = menu[indexPath.row]
         navigationController?.pushViewController(detail, animated: true)
     }
