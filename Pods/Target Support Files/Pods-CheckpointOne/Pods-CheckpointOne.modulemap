@@ -1,0 +1,6 @@
+framework module Pods_CheckpointOne {
+  umbrella header "Pods-CheckpointOne-umbrella.h"
+
+  export *
+  module * { export * }
+}
