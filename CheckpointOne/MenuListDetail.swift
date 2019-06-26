@@ -29,6 +29,7 @@ class MenuListDetail: UITableViewController {
         lbTitle.text = "Title \(indexPath.row)"
         lbTitle.translatesAutoresizingMaskIntoConstraints = false
         lbTitle.font = UIFont.boldSystemFont(ofSize: 18)
+        print("T##items: Any...##Any")
         
         let lbDesc = UILabel()
         lbDesc.text = "Description \(indexPath.row)"

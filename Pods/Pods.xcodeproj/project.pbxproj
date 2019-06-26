@@ -7,102 +7,134 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		08BC68933ADB24DB856ACEA272FCED97 /* Pods-CheckpointOneUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 656A4DFEE1965F5C6A124A03E3B62AC2 /* Pods-CheckpointOneUITests-dummy.m */; };
-		2880FDD1F982A381B297D3C010EDBF02 /* Pods-CheckpointOneTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = D7C5FAE85B856126151327F497928247 /* Pods-CheckpointOneTests-dummy.m */; };
-		2FBA632271480E3E1ACBC9CB5942710B /* Pods-CheckpointOneTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4933166004FCE8737006EFE63390E10D /* Pods-CheckpointOneTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		5226BFF91DF233E17ADEB94AFFF5E2FB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		89C7ADB24AF561B8CEE7A9A5E5B59CF7 /* Pods-CheckpointOne-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C78DD3977E6307F4C34C14DF54400A74 /* Pods-CheckpointOne-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		BFBC0111393E7F8A739E0FE2C8627033 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		D64589B74C1948AFEDF2AC7F1ED5D15B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
-		D8345222E109C4B9ADC99FD51982006E /* Pods-CheckpointOne-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = A98EC7B9A44E1EE18DBBF52001AB493E /* Pods-CheckpointOne-dummy.m */; };
-		ED56B556AE1DEA2492AFE93F4246B3CA /* Pods-CheckpointOneUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 8C0DE1742BEE2A92EC18106F3B01AB31 /* Pods-CheckpointOneUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		29FC7CAC0FE97AFEDC4B6A32DDA4D1C2 /* Pods-CheckpointOne-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 44D0D4DAA5E3E64CCF7A678643D42027 /* Pods-CheckpointOne-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4A006C7498F3498980A774F7C7722224 /* Pods-CheckpointOneTests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = CF94F97AB1D2645F84D1151AF6310FBF /* Pods-CheckpointOneTests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		585CCF9D3D460A27B5D37CDAEB04BEA9 /* Pods-CheckpointOneUITests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 4582FA3AD734F6324FCAAD4D13057F73 /* Pods-CheckpointOneUITests-dummy.m */; };
+		7737CFA9B18668E839AB24E02A9D9E6F /* Pods-CheckpointOneUITests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 3579B2C7B8879C16E95930C4615F0D6E /* Pods-CheckpointOneUITests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		8E4F2D080E08B7E1A55A61AB61D6D58C /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		9F3AD3788BDA49180FF2CF11E72DAA1C /* Pods-CheckpointOneTests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 3DE183373DF756082E21DB555DE2A242 /* Pods-CheckpointOneTests-dummy.m */; };
+		A165965CBA3D3922837C637ED15B737E /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
+		AB238D2F0C70AEA1E502CC168444F7B1 /* Pods-CheckpointOne-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FAD42E2838347C40E5692A37AF246EE6 /* Pods-CheckpointOne-dummy.m */; };
+		F54C4309DE658422F7EBE2C3C837979B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		AED735F8C00E288F3765E65FF892B53C /* PBXContainerItemProxy */ = {
+		13B8DE87F790106A88AE2E08D4B9A583 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 007958C53F2C10BA172F053306B86A96;
+			remoteGlobalIDString = 600F270B337647B73EAE7919598C45F7;
 			remoteInfo = "Pods-CheckpointOne";
 		};
-		FBF059FD9F44127AEE6E8C28B4AF3FCC /* PBXContainerItemProxy */ = {
+		C9B812E9C092A7D66818170DA7AC40AC /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 007958C53F2C10BA172F053306B86A96;
+			remoteGlobalIDString = 600F270B337647B73EAE7919598C45F7;
 			remoteInfo = "Pods-CheckpointOne";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		06AC2EE9F87B70F1DA806C963F84AE36 /* Pods-CheckpointOneUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOneUITests.release.xcconfig"; sourceTree = "<group>"; };
-		12ADF2CBB6D77120A0F85CDFD9DB60D8 /* Pods-CheckpointOne.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOne.release.xcconfig"; sourceTree = "<group>"; };
+		01449EB0C6E43028B72BEB890EC541D5 /* Pods_CheckpointOneUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CheckpointOneUITests.framework; path = "Pods-CheckpointOneUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1456E92F054D8219559C2A7CDF22C9D8 /* Pods-CheckpointOneTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOneTests-Info.plist"; sourceTree = "<group>"; };
+		1587AE7AEA5AA367943F8A28C151C698 /* Pods-CheckpointOne.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOne.release.xcconfig"; sourceTree = "<group>"; };
+		1DFC2F64892EA521DA47AFCEE305972D /* Pods-CheckpointOne.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOne.debug.xcconfig"; sourceTree = "<group>"; };
+		1EA71928DFC1F8EC21CC40DA0AD7E834 /* Pods_CheckpointOneTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CheckpointOneTests.framework; path = "Pods-CheckpointOneTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D57C6C2111E3F5286FB1FEF4D79A286 /* Pods-CheckpointOneUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CheckpointOneUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		3AB29F84B74CD9BAFD066B826F49A608 /* Pods-CheckpointOne-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOne-acknowledgements.plist"; sourceTree = "<group>"; };
-		455DEF902EFFAECE7992C12D16828A31 /* Pods-CheckpointOne.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOne.debug.xcconfig"; sourceTree = "<group>"; };
-		4933166004FCE8737006EFE63390E10D /* Pods-CheckpointOneTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CheckpointOneTests-umbrella.h"; sourceTree = "<group>"; };
-		4E88D070C3335BBF0EDB45E69F753155 /* Pods-CheckpointOneTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CheckpointOneTests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		5D810FC8B26924D65EBCF93D5FCCA633 /* Pods-CheckpointOneUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOneUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		656A4DFEE1965F5C6A124A03E3B62AC2 /* Pods-CheckpointOneUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CheckpointOneUITests-dummy.m"; sourceTree = "<group>"; };
-		65D8C39BBA3DC93A6FBA6382D90703EC /* Pods-CheckpointOneTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOneTests-acknowledgements.plist"; sourceTree = "<group>"; };
-		7F411EA2679BB92671058EBA6CC15A82 /* Pods-CheckpointOne-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOne-Info.plist"; sourceTree = "<group>"; };
-		83339A2EBCC97DB9195E8B8BE2E1D0E3 /* Pods-CheckpointOneUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOneUITests-Info.plist"; sourceTree = "<group>"; };
-		85C4684523EDE43A432D036071D2843F /* Pods-CheckpointOneUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOneUITests.debug.xcconfig"; sourceTree = "<group>"; };
-		88C5FFA9435EC22F7694744FB6D429F4 /* Pods-CheckpointOneTests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOneTests-Info.plist"; sourceTree = "<group>"; };
-		8C0DE1742BEE2A92EC18106F3B01AB31 /* Pods-CheckpointOneUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CheckpointOneUITests-umbrella.h"; sourceTree = "<group>"; };
-		8FFD6902B99F939326967F2098CC82F8 /* Pods-CheckpointOne.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CheckpointOne.modulemap"; sourceTree = "<group>"; };
-		97C2291F0AA571137333118F364FA9F2 /* Pods-CheckpointOneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOneTests.debug.xcconfig"; sourceTree = "<group>"; };
-		99D2191506C5D3CDD7DA89DFA2A6E313 /* Pods_CheckpointOneTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CheckpointOneTests.framework; path = "Pods-CheckpointOneTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9A303B6D1222F92CC2EC09A590052B37 /* Pods-CheckpointOneUITests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CheckpointOneUITests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		324263435E06CC5C79099F17BC2CD80C /* Pods-CheckpointOneUITests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOneUITests-Info.plist"; sourceTree = "<group>"; };
+		3579B2C7B8879C16E95930C4615F0D6E /* Pods-CheckpointOneUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CheckpointOneUITests-umbrella.h"; sourceTree = "<group>"; };
+		3CF7E26021B3AB7543ECA3EF15BE81AD /* Pods-CheckpointOneTests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOneTests-acknowledgements.plist"; sourceTree = "<group>"; };
+		3DE183373DF756082E21DB555DE2A242 /* Pods-CheckpointOneTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CheckpointOneTests-dummy.m"; sourceTree = "<group>"; };
+		44D0D4DAA5E3E64CCF7A678643D42027 /* Pods-CheckpointOne-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CheckpointOne-umbrella.h"; sourceTree = "<group>"; };
+		4582FA3AD734F6324FCAAD4D13057F73 /* Pods-CheckpointOneUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CheckpointOneUITests-dummy.m"; sourceTree = "<group>"; };
+		6570A614214DA0ECC6FE9B4CE6FC50B9 /* Pods-CheckpointOneUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CheckpointOneUITests.modulemap"; sourceTree = "<group>"; };
+		72664F3297D7FECB43C7DB59F994006C /* Pods-CheckpointOneTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CheckpointOneTests.modulemap"; sourceTree = "<group>"; };
+		733F6229E09BDC237775CF10B24AE2E8 /* Pods-CheckpointOneUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOneUITests-acknowledgements.plist"; sourceTree = "<group>"; };
+		822FEA6085E4943D38DC5106404281AD /* Pods-CheckpointOneUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOneUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		8657ACBA0B9A4A48CEFAEB622D955DC0 /* Pods_CheckpointOne.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CheckpointOne.framework; path = "Pods-CheckpointOne.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		A98EC7B9A44E1EE18DBBF52001AB493E /* Pods-CheckpointOne-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CheckpointOne-dummy.m"; sourceTree = "<group>"; };
-		AAC05DA92FCE224FDC6557B0BAC0EB41 /* Pods-CheckpointOneTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CheckpointOneTests.modulemap"; sourceTree = "<group>"; };
-		C78DD3977E6307F4C34C14DF54400A74 /* Pods-CheckpointOne-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CheckpointOne-umbrella.h"; sourceTree = "<group>"; };
-		CC18C854F3F8B366DA727093EBDA902B /* Pods_CheckpointOne.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CheckpointOne.framework; path = "Pods-CheckpointOne.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D4332CF95A32670B1A1D34F4660D882B /* Pods-CheckpointOneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOneTests.release.xcconfig"; sourceTree = "<group>"; };
-		D4EF349FA048F5A53864529DBEAE41F0 /* Pods_CheckpointOneUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_CheckpointOneUITests.framework; path = "Pods-CheckpointOneUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D7C5FAE85B856126151327F497928247 /* Pods-CheckpointOneTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CheckpointOneTests-dummy.m"; sourceTree = "<group>"; };
-		D991E6062C4B7FEC95FC1649D58A70D4 /* Pods-CheckpointOne-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CheckpointOne-acknowledgements.markdown"; sourceTree = "<group>"; };
-		ECF6AE7C81EE3F01293A9D1121B77B3E /* Pods-CheckpointOneUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CheckpointOneUITests.modulemap"; sourceTree = "<group>"; };
+		A1CB8E46C1A3FF657A427573EE12EF02 /* Pods-CheckpointOneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOneTests.debug.xcconfig"; sourceTree = "<group>"; };
+		A3CABA8A287D88DA5D3F679AC92ED1A8 /* Pods-CheckpointOneTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CheckpointOneTests-acknowledgements.markdown"; sourceTree = "<group>"; };
+		AEFD22A4B2DF2D6153A355DE82F9E28B /* Pods-CheckpointOne-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOne-Info.plist"; sourceTree = "<group>"; };
+		CD7333B6B8820BECEFAD32B40D3D3990 /* Pods-CheckpointOneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOneTests.release.xcconfig"; sourceTree = "<group>"; };
+		CF94F97AB1D2645F84D1151AF6310FBF /* Pods-CheckpointOneTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-CheckpointOneTests-umbrella.h"; sourceTree = "<group>"; };
+		DC9766EFF386B67CCB67D4B782F0DDDD /* Pods-CheckpointOne-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-CheckpointOne-acknowledgements.plist"; sourceTree = "<group>"; };
+		F46F4B3073C87ADAD1DDFF967661EC9C /* Pods-CheckpointOneUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-CheckpointOneUITests.release.xcconfig"; sourceTree = "<group>"; };
+		FAD42E2838347C40E5692A37AF246EE6 /* Pods-CheckpointOne-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-CheckpointOne-dummy.m"; sourceTree = "<group>"; };
+		FB4409C617C87FCA95198BC012992254 /* Pods-CheckpointOne-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-CheckpointOne-acknowledgements.markdown"; sourceTree = "<group>"; };
+		FF2A759A5D679E25E1A9CFC6BBAFB06C /* Pods-CheckpointOne.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-CheckpointOne.modulemap"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		315D7BCFD811499DF9C7FA78811F4540 /* Frameworks */ = {
+		8559CB32C917DEF2703DBF15DB7D0528 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5226BFF91DF233E17ADEB94AFFF5E2FB /* Foundation.framework in Frameworks */,
+				F54C4309DE658422F7EBE2C3C837979B /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		45D8347911F98D8E3CCD2EAE36535C77 /* Frameworks */ = {
+		AE943F2F24D160D32689F60BEEBAD31D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D64589B74C1948AFEDF2AC7F1ED5D15B /* Foundation.framework in Frameworks */,
+				A165965CBA3D3922837C637ED15B737E /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		86FD6012FC05A002BFECBDC38C52318C /* Frameworks */ = {
+		B07D3EBDEDB0365ABDA48AEBA7ADF53A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BFBC0111393E7F8A739E0FE2C8627033 /* Foundation.framework in Frameworks */,
+				8E4F2D080E08B7E1A55A61AB61D6D58C /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7ECE6E4044C9274BABC2293E7F13D4A8 /* Pods-CheckpointOneUITests */ = {
+			isa = PBXGroup;
+			children = (
+				6570A614214DA0ECC6FE9B4CE6FC50B9 /* Pods-CheckpointOneUITests.modulemap */,
+				2D57C6C2111E3F5286FB1FEF4D79A286 /* Pods-CheckpointOneUITests-acknowledgements.markdown */,
+				733F6229E09BDC237775CF10B24AE2E8 /* Pods-CheckpointOneUITests-acknowledgements.plist */,
+				4582FA3AD734F6324FCAAD4D13057F73 /* Pods-CheckpointOneUITests-dummy.m */,
+				324263435E06CC5C79099F17BC2CD80C /* Pods-CheckpointOneUITests-Info.plist */,
+				3579B2C7B8879C16E95930C4615F0D6E /* Pods-CheckpointOneUITests-umbrella.h */,
+				822FEA6085E4943D38DC5106404281AD /* Pods-CheckpointOneUITests.debug.xcconfig */,
+				F46F4B3073C87ADAD1DDFF967661EC9C /* Pods-CheckpointOneUITests.release.xcconfig */,
+			);
+			name = "Pods-CheckpointOneUITests";
+			path = "Target Support Files/Pods-CheckpointOneUITests";
+			sourceTree = "<group>";
+		};
 		82FF29195FABEE9E5FBC75565280F4B0 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				F79430980BD2E31F3ADDFE683B1090F7 /* Pods-CheckpointOne */,
-				F5A0AA7977330CFA21B99B44DE47EFF2 /* Pods-CheckpointOneTests */,
-				D5BD2A4DED9646D7F320ACF468E71A01 /* Pods-CheckpointOneUITests */,
+				A2AC01DF23EDA088D070B1416A29D61C /* Pods-CheckpointOne */,
+				D2BBD546DE09E5C2129C0F69E895CD11 /* Pods-CheckpointOneTests */,
+				7ECE6E4044C9274BABC2293E7F13D4A8 /* Pods-CheckpointOneUITests */,
 			);
 			name = "Targets Support Files";
+			sourceTree = "<group>";
+		};
+		A2AC01DF23EDA088D070B1416A29D61C /* Pods-CheckpointOne */ = {
+			isa = PBXGroup;
+			children = (
+				FF2A759A5D679E25E1A9CFC6BBAFB06C /* Pods-CheckpointOne.modulemap */,
+				FB4409C617C87FCA95198BC012992254 /* Pods-CheckpointOne-acknowledgements.markdown */,
+				DC9766EFF386B67CCB67D4B782F0DDDD /* Pods-CheckpointOne-acknowledgements.plist */,
+				FAD42E2838347C40E5692A37AF246EE6 /* Pods-CheckpointOne-dummy.m */,
+				AEFD22A4B2DF2D6153A355DE82F9E28B /* Pods-CheckpointOne-Info.plist */,
+				44D0D4DAA5E3E64CCF7A678643D42027 /* Pods-CheckpointOne-umbrella.h */,
+				1DFC2F64892EA521DA47AFCEE305972D /* Pods-CheckpointOne.debug.xcconfig */,
+				1587AE7AEA5AA367943F8A28C151C698 /* Pods-CheckpointOne.release.xcconfig */,
+			);
+			name = "Pods-CheckpointOne";
+			path = "Target Support Files/Pods-CheckpointOne";
 			sourceTree = "<group>";
 		};
 		C0834CEBB1379A84116EF29F93051C60 /* iOS */ = {
@@ -131,60 +163,28 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		D5BD2A4DED9646D7F320ACF468E71A01 /* Pods-CheckpointOneUITests */ = {
+		D2BBD546DE09E5C2129C0F69E895CD11 /* Pods-CheckpointOneTests */ = {
 			isa = PBXGroup;
 			children = (
-				ECF6AE7C81EE3F01293A9D1121B77B3E /* Pods-CheckpointOneUITests.modulemap */,
-				9A303B6D1222F92CC2EC09A590052B37 /* Pods-CheckpointOneUITests-acknowledgements.markdown */,
-				5D810FC8B26924D65EBCF93D5FCCA633 /* Pods-CheckpointOneUITests-acknowledgements.plist */,
-				656A4DFEE1965F5C6A124A03E3B62AC2 /* Pods-CheckpointOneUITests-dummy.m */,
-				83339A2EBCC97DB9195E8B8BE2E1D0E3 /* Pods-CheckpointOneUITests-Info.plist */,
-				8C0DE1742BEE2A92EC18106F3B01AB31 /* Pods-CheckpointOneUITests-umbrella.h */,
-				85C4684523EDE43A432D036071D2843F /* Pods-CheckpointOneUITests.debug.xcconfig */,
-				06AC2EE9F87B70F1DA806C963F84AE36 /* Pods-CheckpointOneUITests.release.xcconfig */,
-			);
-			name = "Pods-CheckpointOneUITests";
-			path = "Target Support Files/Pods-CheckpointOneUITests";
-			sourceTree = "<group>";
-		};
-		F5A0AA7977330CFA21B99B44DE47EFF2 /* Pods-CheckpointOneTests */ = {
-			isa = PBXGroup;
-			children = (
-				AAC05DA92FCE224FDC6557B0BAC0EB41 /* Pods-CheckpointOneTests.modulemap */,
-				4E88D070C3335BBF0EDB45E69F753155 /* Pods-CheckpointOneTests-acknowledgements.markdown */,
-				65D8C39BBA3DC93A6FBA6382D90703EC /* Pods-CheckpointOneTests-acknowledgements.plist */,
-				D7C5FAE85B856126151327F497928247 /* Pods-CheckpointOneTests-dummy.m */,
-				88C5FFA9435EC22F7694744FB6D429F4 /* Pods-CheckpointOneTests-Info.plist */,
-				4933166004FCE8737006EFE63390E10D /* Pods-CheckpointOneTests-umbrella.h */,
-				97C2291F0AA571137333118F364FA9F2 /* Pods-CheckpointOneTests.debug.xcconfig */,
-				D4332CF95A32670B1A1D34F4660D882B /* Pods-CheckpointOneTests.release.xcconfig */,
+				72664F3297D7FECB43C7DB59F994006C /* Pods-CheckpointOneTests.modulemap */,
+				A3CABA8A287D88DA5D3F679AC92ED1A8 /* Pods-CheckpointOneTests-acknowledgements.markdown */,
+				3CF7E26021B3AB7543ECA3EF15BE81AD /* Pods-CheckpointOneTests-acknowledgements.plist */,
+				3DE183373DF756082E21DB555DE2A242 /* Pods-CheckpointOneTests-dummy.m */,
+				1456E92F054D8219559C2A7CDF22C9D8 /* Pods-CheckpointOneTests-Info.plist */,
+				CF94F97AB1D2645F84D1151AF6310FBF /* Pods-CheckpointOneTests-umbrella.h */,
+				A1CB8E46C1A3FF657A427573EE12EF02 /* Pods-CheckpointOneTests.debug.xcconfig */,
+				CD7333B6B8820BECEFAD32B40D3D3990 /* Pods-CheckpointOneTests.release.xcconfig */,
 			);
 			name = "Pods-CheckpointOneTests";
 			path = "Target Support Files/Pods-CheckpointOneTests";
 			sourceTree = "<group>";
 		};
-		F79430980BD2E31F3ADDFE683B1090F7 /* Pods-CheckpointOne */ = {
-			isa = PBXGroup;
-			children = (
-				8FFD6902B99F939326967F2098CC82F8 /* Pods-CheckpointOne.modulemap */,
-				D991E6062C4B7FEC95FC1649D58A70D4 /* Pods-CheckpointOne-acknowledgements.markdown */,
-				3AB29F84B74CD9BAFD066B826F49A608 /* Pods-CheckpointOne-acknowledgements.plist */,
-				A98EC7B9A44E1EE18DBBF52001AB493E /* Pods-CheckpointOne-dummy.m */,
-				7F411EA2679BB92671058EBA6CC15A82 /* Pods-CheckpointOne-Info.plist */,
-				C78DD3977E6307F4C34C14DF54400A74 /* Pods-CheckpointOne-umbrella.h */,
-				455DEF902EFFAECE7992C12D16828A31 /* Pods-CheckpointOne.debug.xcconfig */,
-				12ADF2CBB6D77120A0F85CDFD9DB60D8 /* Pods-CheckpointOne.release.xcconfig */,
-			);
-			name = "Pods-CheckpointOne";
-			path = "Target Support Files/Pods-CheckpointOne";
-			sourceTree = "<group>";
-		};
 		FDD2C7F8B5C44B3D7D0DFF2AFB2AA389 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CC18C854F3F8B366DA727093EBDA902B /* Pods_CheckpointOne.framework */,
-				99D2191506C5D3CDD7DA89DFA2A6E313 /* Pods_CheckpointOneTests.framework */,
-				D4EF349FA048F5A53864529DBEAE41F0 /* Pods_CheckpointOneUITests.framework */,
+				8657ACBA0B9A4A48CEFAEB622D955DC0 /* Pods_CheckpointOne.framework */,
+				1EA71928DFC1F8EC21CC40DA0AD7E834 /* Pods_CheckpointOneTests.framework */,
+				01449EB0C6E43028B72BEB890EC541D5 /* Pods_CheckpointOneUITests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -192,41 +192,79 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		56EE7134BF0781706A386BA973D4941C /* Headers */ = {
+		BEAC61713CEC8348B66DD6F03A05046C /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2FBA632271480E3E1ACBC9CB5942710B /* Pods-CheckpointOneTests-umbrella.h in Headers */,
+				7737CFA9B18668E839AB24E02A9D9E6F /* Pods-CheckpointOneUITests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6819FDEF3B7AAF624BAB4AEDC01E67BA /* Headers */ = {
+		CEA48E35D7D04D16A400F2B5B15D8BEF /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				89C7ADB24AF561B8CEE7A9A5E5B59CF7 /* Pods-CheckpointOne-umbrella.h in Headers */,
+				4A006C7498F3498980A774F7C7722224 /* Pods-CheckpointOneTests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		98BA02FB8392CDD7241091B3F4D11C1D /* Headers */ = {
+		D72A2BB0BC45BFF03C39BC06170202B3 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED56B556AE1DEA2492AFE93F4246B3CA /* Pods-CheckpointOneUITests-umbrella.h in Headers */,
+				29FC7CAC0FE97AFEDC4B6A32DDA4D1C2 /* Pods-CheckpointOne-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		007958C53F2C10BA172F053306B86A96 /* Pods-CheckpointOne */ = {
+		2DEB773585E370F91135B005249A2A4A /* Pods-CheckpointOneUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = AC9625F00D430E809BA71FE8EED45A51 /* Build configuration list for PBXNativeTarget "Pods-CheckpointOne" */;
+			buildConfigurationList = 6F4CE85744E76673FA61380FBFB975EB /* Build configuration list for PBXNativeTarget "Pods-CheckpointOneUITests" */;
 			buildPhases = (
-				6819FDEF3B7AAF624BAB4AEDC01E67BA /* Headers */,
-				8F72765D8497DBB739B6029506AAF579 /* Sources */,
-				315D7BCFD811499DF9C7FA78811F4540 /* Frameworks */,
-				5483BDCBE5E66C7CCE117E2A9ABD8C1C /* Resources */,
+				BEAC61713CEC8348B66DD6F03A05046C /* Headers */,
+				BB7AD8C2F330308E1EA0E4E14EBFFD6C /* Sources */,
+				8559CB32C917DEF2703DBF15DB7D0528 /* Frameworks */,
+				04C2916ACEC97457D637573296110CAE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AB32A1B79513989D33812E17BB23E85E /* PBXTargetDependency */,
+			);
+			name = "Pods-CheckpointOneUITests";
+			productName = "Pods-CheckpointOneUITests";
+			productReference = 01449EB0C6E43028B72BEB890EC541D5 /* Pods_CheckpointOneUITests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		428C31093D6C1ACEE18A2B33A3AF4AB8 /* Pods-CheckpointOneTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = AE91B345B44894BEC9A870DEFD1AE469 /* Build configuration list for PBXNativeTarget "Pods-CheckpointOneTests" */;
+			buildPhases = (
+				CEA48E35D7D04D16A400F2B5B15D8BEF /* Headers */,
+				16C0E5041BCE754BA3ACEC9235903149 /* Sources */,
+				B07D3EBDEDB0365ABDA48AEBA7ADF53A /* Frameworks */,
+				8757E8F803A9192318BB3BA2778B23CC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				D062864C253B1D10992CC1EED24A6CC5 /* PBXTargetDependency */,
+			);
+			name = "Pods-CheckpointOneTests";
+			productName = "Pods-CheckpointOneTests";
+			productReference = 1EA71928DFC1F8EC21CC40DA0AD7E834 /* Pods_CheckpointOneTests.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		600F270B337647B73EAE7919598C45F7 /* Pods-CheckpointOne */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = A711C483274E4CA19E6AA0D0A4487264 /* Build configuration list for PBXNativeTarget "Pods-CheckpointOne" */;
+			buildPhases = (
+				D72A2BB0BC45BFF03C39BC06170202B3 /* Headers */,
+				1E185193096846998E437D366521CC3D /* Sources */,
+				AE943F2F24D160D32689F60BEEBAD31D /* Frameworks */,
+				2A7C23E841323D22F2A29A468012AC37 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -234,45 +272,7 @@
 			);
 			name = "Pods-CheckpointOne";
 			productName = "Pods-CheckpointOne";
-			productReference = CC18C854F3F8B366DA727093EBDA902B /* Pods_CheckpointOne.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		DE3469F5EBD0960F26D9CE027F1C9FE2 /* Pods-CheckpointOneUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = D0A8B4B92F722434FABDDEA2FC92DD94 /* Build configuration list for PBXNativeTarget "Pods-CheckpointOneUITests" */;
-			buildPhases = (
-				98BA02FB8392CDD7241091B3F4D11C1D /* Headers */,
-				A58064ADD424C484AE26C54F59BAB46A /* Sources */,
-				45D8347911F98D8E3CCD2EAE36535C77 /* Frameworks */,
-				6289F50908923CCB4C648F437719137F /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				C6A58D94EEF6E97F9C96275DBA2103C4 /* PBXTargetDependency */,
-			);
-			name = "Pods-CheckpointOneUITests";
-			productName = "Pods-CheckpointOneUITests";
-			productReference = D4EF349FA048F5A53864529DBEAE41F0 /* Pods_CheckpointOneUITests.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		F5DADA94ADD96CFB27CBBA7A233BEC91 /* Pods-CheckpointOneTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = DB95227510B6901BA4C9D8FD6824AD21 /* Build configuration list for PBXNativeTarget "Pods-CheckpointOneTests" */;
-			buildPhases = (
-				56EE7134BF0781706A386BA973D4941C /* Headers */,
-				190F6F19CDD38583DBEC20AED7C86250 /* Sources */,
-				86FD6012FC05A002BFECBDC38C52318C /* Frameworks */,
-				915AF79D073EEDCD0D29BC03F2A8BC2D /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				B9F55326F99909696E90D2259EE356B8 /* PBXTargetDependency */,
-			);
-			name = "Pods-CheckpointOneTests";
-			productName = "Pods-CheckpointOneTests";
-			productReference = 99D2191506C5D3CDD7DA89DFA2A6E313 /* Pods_CheckpointOneTests.framework */;
+			productReference = 8657ACBA0B9A4A48CEFAEB622D955DC0 /* Pods_CheckpointOne.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -281,8 +281,8 @@
 		BFDFE7DC352907FC980B868725387E98 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1100;
-				LastUpgradeCheck = 1100;
+				LastSwiftUpdateCheck = 1020;
+				LastUpgradeCheck = 1020;
 			};
 			buildConfigurationList = 4821239608C13582E20E6DA73FD5F1F9 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 9.3";
@@ -296,29 +296,29 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				007958C53F2C10BA172F053306B86A96 /* Pods-CheckpointOne */,
-				F5DADA94ADD96CFB27CBBA7A233BEC91 /* Pods-CheckpointOneTests */,
-				DE3469F5EBD0960F26D9CE027F1C9FE2 /* Pods-CheckpointOneUITests */,
+				600F270B337647B73EAE7919598C45F7 /* Pods-CheckpointOne */,
+				428C31093D6C1ACEE18A2B33A3AF4AB8 /* Pods-CheckpointOneTests */,
+				2DEB773585E370F91135B005249A2A4A /* Pods-CheckpointOneUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		5483BDCBE5E66C7CCE117E2A9ABD8C1C /* Resources */ = {
+		04C2916ACEC97457D637573296110CAE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		6289F50908923CCB4C648F437719137F /* Resources */ = {
+		2A7C23E841323D22F2A29A468012AC37 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		915AF79D073EEDCD0D29BC03F2A8BC2D /* Resources */ = {
+		8757E8F803A9192318BB3BA2778B23CC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -328,51 +328,51 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		190F6F19CDD38583DBEC20AED7C86250 /* Sources */ = {
+		16C0E5041BCE754BA3ACEC9235903149 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2880FDD1F982A381B297D3C010EDBF02 /* Pods-CheckpointOneTests-dummy.m in Sources */,
+				9F3AD3788BDA49180FF2CF11E72DAA1C /* Pods-CheckpointOneTests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		8F72765D8497DBB739B6029506AAF579 /* Sources */ = {
+		1E185193096846998E437D366521CC3D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D8345222E109C4B9ADC99FD51982006E /* Pods-CheckpointOne-dummy.m in Sources */,
+				AB238D2F0C70AEA1E502CC168444F7B1 /* Pods-CheckpointOne-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		A58064ADD424C484AE26C54F59BAB46A /* Sources */ = {
+		BB7AD8C2F330308E1EA0E4E14EBFFD6C /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				08BC68933ADB24DB856ACEA272FCED97 /* Pods-CheckpointOneUITests-dummy.m in Sources */,
+				585CCF9D3D460A27B5D37CDAEB04BEA9 /* Pods-CheckpointOneUITests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		B9F55326F99909696E90D2259EE356B8 /* PBXTargetDependency */ = {
+		AB32A1B79513989D33812E17BB23E85E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-CheckpointOne";
-			target = 007958C53F2C10BA172F053306B86A96 /* Pods-CheckpointOne */;
-			targetProxy = AED735F8C00E288F3765E65FF892B53C /* PBXContainerItemProxy */;
+			target = 600F270B337647B73EAE7919598C45F7 /* Pods-CheckpointOne */;
+			targetProxy = 13B8DE87F790106A88AE2E08D4B9A583 /* PBXContainerItemProxy */;
 		};
-		C6A58D94EEF6E97F9C96275DBA2103C4 /* PBXTargetDependency */ = {
+		D062864C253B1D10992CC1EED24A6CC5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "Pods-CheckpointOne";
-			target = 007958C53F2C10BA172F053306B86A96 /* Pods-CheckpointOne */;
-			targetProxy = FBF059FD9F44127AEE6E8C28B4AF3FCC /* PBXContainerItemProxy */;
+			target = 600F270B337647B73EAE7919598C45F7 /* Pods-CheckpointOne */;
+			targetProxy = C9B812E9C092A7D66818170DA7AC40AC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		04E99AB570991438303452BA407EB501 /* Debug */ = {
+		0015DB602C9E1E47211443B438F0D0C1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 85C4684523EDE43A432D036071D2843F /* Pods-CheckpointOneUITests.debug.xcconfig */;
+			baseConfigurationReference = F46F4B3073C87ADAD1DDFF967661EC9C /* Pods-CheckpointOneUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -403,10 +403,50 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Debug;
+			name = Release;
+		};
+		0D9A1C162255E3EEE5A19BD9801BFFC8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1587AE7AEA5AA367943F8A28C151C698 /* Pods-CheckpointOne.release.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-CheckpointOne/Pods-CheckpointOne-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-CheckpointOne/Pods-CheckpointOne.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		204B8AEA4AE90A551A1768B355C2F9F0 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -472,9 +512,9 @@
 			};
 			name = Debug;
 		};
-		3577CC58FD82A38AB3D1D758EA436950 /* Debug */ = {
+		317EB14E45C2AE1EB5F0D17D49E5357E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 97C2291F0AA571137333118F364FA9F2 /* Pods-CheckpointOneTests.debug.xcconfig */;
+			baseConfigurationReference = 822FEA6085E4943D38DC5106404281AD /* Pods-CheckpointOneUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -487,7 +527,7 @@
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-CheckpointOneTests/Pods-CheckpointOneTests-Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-CheckpointOneUITests/Pods-CheckpointOneUITests-Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -496,7 +536,7 @@
 					"@loader_path/Frameworks",
 				);
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-CheckpointOneTests/Pods-CheckpointOneTests.modulemap";
+				MODULEMAP_FILE = "Target Support Files/Pods-CheckpointOneUITests/Pods-CheckpointOneUITests.modulemap";
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
@@ -570,9 +610,9 @@
 			};
 			name = Release;
 		};
-		A2B8A912CB3A71582135DA087A11F79E /* Release */ = {
+		43BCEF879473E2CFED7A373D2B908CE7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D4332CF95A32670B1A1D34F4660D882B /* Pods-CheckpointOneTests.release.xcconfig */;
+			baseConfigurationReference = CD7333B6B8820BECEFAD32B40D3D3990 /* Pods-CheckpointOneTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -609,9 +649,47 @@
 			};
 			name = Release;
 		};
-		ACCE27D0A8B8C1CA019BE104284706F7 /* Debug */ = {
+		69F03866482A02645C233057506A6D19 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 455DEF902EFFAECE7992C12D16828A31 /* Pods-CheckpointOne.debug.xcconfig */;
+			baseConfigurationReference = A1CB8E46C1A3FF657A427573EE12EF02 /* Pods-CheckpointOneTests.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CLANG_ENABLE_OBJC_WEAK = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = "Target Support Files/Pods-CheckpointOneTests/Pods-CheckpointOneTests-Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-CheckpointOneTests/Pods-CheckpointOneTests.modulemap";
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		C266E2C7D1BC9DD5274A0B34FB1590BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 1DFC2F64892EA521DA47AFCEE305972D /* Pods-CheckpointOne.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
 				CLANG_ENABLE_OBJC_WEAK = NO;
@@ -647,84 +725,6 @@
 			};
 			name = Debug;
 		};
-		BAB59513F3318D38C44F028610D1C08F /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 12ADF2CBB6D77120A0F85CDFD9DB60D8 /* Pods-CheckpointOne.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-CheckpointOne/Pods-CheckpointOne-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-CheckpointOne/Pods-CheckpointOne.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		C03766F9E0E2DD401B88E2B1C4007CA9 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 06AC2EE9F87B70F1DA806C963F84AE36 /* Pods-CheckpointOneUITests.release.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CLANG_ENABLE_OBJC_WEAK = NO;
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				INFOPLIST_FILE = "Target Support Files/Pods-CheckpointOneUITests/Pods-CheckpointOneUITests-Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 12.2;
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-CheckpointOneUITests/Pods-CheckpointOneUITests.modulemap";
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -737,29 +737,29 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		AC9625F00D430E809BA71FE8EED45A51 /* Build configuration list for PBXNativeTarget "Pods-CheckpointOne" */ = {
+		6F4CE85744E76673FA61380FBFB975EB /* Build configuration list for PBXNativeTarget "Pods-CheckpointOneUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				ACCE27D0A8B8C1CA019BE104284706F7 /* Debug */,
-				BAB59513F3318D38C44F028610D1C08F /* Release */,
+				317EB14E45C2AE1EB5F0D17D49E5357E /* Debug */,
+				0015DB602C9E1E47211443B438F0D0C1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		D0A8B4B92F722434FABDDEA2FC92DD94 /* Build configuration list for PBXNativeTarget "Pods-CheckpointOneUITests" */ = {
+		A711C483274E4CA19E6AA0D0A4487264 /* Build configuration list for PBXNativeTarget "Pods-CheckpointOne" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				04E99AB570991438303452BA407EB501 /* Debug */,
-				C03766F9E0E2DD401B88E2B1C4007CA9 /* Release */,
+				C266E2C7D1BC9DD5274A0B34FB1590BF /* Debug */,
+				0D9A1C162255E3EEE5A19BD9801BFFC8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DB95227510B6901BA4C9D8FD6824AD21 /* Build configuration list for PBXNativeTarget "Pods-CheckpointOneTests" */ = {
+		AE91B345B44894BEC9A870DEFD1AE469 /* Build configuration list for PBXNativeTarget "Pods-CheckpointOneTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				3577CC58FD82A38AB3D1D758EA436950 /* Debug */,
-				A2B8A912CB3A71582135DA087A11F79E /* Release */,
+				69F03866482A02645C233057506A6D19 /* Debug */,
+				43BCEF879473E2CFED7A373D2B908CE7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
