@@ -19,7 +19,7 @@ class MenuListDetail: UITableViewController {
     }
     
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
-        return 6    
+        return 6
     }
     
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
@@ -47,8 +47,8 @@ class MenuListDetail: UITableViewController {
             image.leftAnchor.constraint(equalTo: cell.leftAnchor),
             image.widthAnchor.constraint(equalToConstant: 120),
             image.heightAnchor.constraint(equalToConstant: 120),
-            image.bottomAnchor.constraint(equalTo: cell.bottomAnchor, constant: 4),
-            image.topAnchor.constraint(equalTo: cell.topAnchor, constant: 4),
+            image.bottomAnchor.constraint(equalTo: cell.bottomAnchor, constant: -8),
+            image.topAnchor.constraint(equalTo: cell.topAnchor, constant: 8),
             lbTitle.leftAnchor.constraint(equalTo: image.rightAnchor, constant: 4),
             lbTitle.topAnchor.constraint(equalTo: image.topAnchor, constant: 12),
             lbDesc.leftAnchor.constraint(equalTo: image.rightAnchor, constant: 4),
